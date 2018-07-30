@@ -1,0 +1,46 @@
+Functional Programming Katas in Java
+Venkat Subramaniam
+venkats@agiledeveloper.com
+@venkat_s
+
+Repository:
+On the Mac:-
+svn co https://www.agiledeveloper.com/svn/code/uberconf2018fp
+
+On Windows:-
+Tortoise svn
+	Right click on windows explorer, TortoiseSVN checkout
+	https://www.agiledeveloper.com/svn/code/uberconf2018fp
+
+userid: uberconf2018fp
+Password: flatiron
+
+You may also use git-svn
+
+Review:
+-Functional Programming
+-Higher Order Functions
+-Lambdas and Streams
+-Collectors in Java
+
+Exercise 0:
+-Setup the environment
+-Run the canary test, make sure it is passing
+
+Exercise 1:
+-Copy over the test to test/com/agiledeveloper directory
+-Copy over the class to src/com/agiledeveloper directory
+
+Exercise 2:
+
+
+Exercise 3:
+
+
+Exercise 4:
+
+          
+Exercise 5:
+
+
+Exercise 6:
